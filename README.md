@@ -1,2 +1,2 @@
 # Crazy
-Create Financial Planning and forecasting for ICICI bank
+Created Financial Planning and forecasting for ICICI bank
